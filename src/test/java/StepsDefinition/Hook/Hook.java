@@ -1,4 +1,4 @@
-package StepsDefinition;
+package StepsDefinition.Hook;
 
 import org.junit.After;
 import org.junit.Before;
